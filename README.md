@@ -22,6 +22,10 @@ Open the NodeMCU-Tools extension settings and modify the code for Snippets in th
 
     },
 ```
+<br>
+
+Upload the file '~Button Print Globals.lc' to ESP.
+
 <hr>
 
 
