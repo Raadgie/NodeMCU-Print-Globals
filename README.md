@@ -1,6 +1,6 @@
 # NodeMCU-Print-Globals
 
-### Tool for printing the tree structure of Globals using the excellent NodeMCU-Tools extension for VS Code. 
+### Tool for printing the tree structure of Globals using the excellent NodeMCU-Tools (@BoresXP) extension for VS Code. 
 (https://github.com/BoresXP/nodemcu-tools)
 
 ![Snímek obrazovky 2023-11-25 v 18 04 00](https://github.com/Raadgie/NodeMCU-Print-Globals/assets/152021860/4496c26b-84a9-4ea8-8ab2-426a26fd4ad8)
